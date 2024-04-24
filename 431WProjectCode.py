@@ -139,7 +139,7 @@ def main():
                     
                     
                 else:
-                    print("Invalid option. Please select a number between 1 and 10.")
+                    print("Invalid option. Please select a number between 1 and 11.")
             except ValueError:
                 print("Invalid input. Please enter a number.")
                 
